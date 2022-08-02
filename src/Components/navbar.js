@@ -13,18 +13,6 @@ export default function MyNavbar() {
     }, []);
     const [isOpen, setIsOpen] = useState(false);
     return (
-        // <Navbar bg="dark" expand="lg" variant="dark">
-        //     <Navbar.Brand href="/">Nick Saracino</Navbar.Brand>
-        //     <Navbar.Toggle aria-controls="basic-navbar-nav"/>
-        //     <Navbar.Collapse id="basic-navbar-nav">
-        //         <Nav>
-        //             <Nav.Link href={"/"}>Home</Nav.Link>
-        //             <Nav.Link href={"/overmij"}>Over Mij</Nav.Link>
-        //             <Nav.Link href={"/projecten"}>Projecten</Nav.Link>
-        //             <Nav.Link href={"/cv"}>CV</Nav.Link>
-        //         </Nav>
-        //     </Navbar.Collapse>
-        // </Navbar>
         <div>
             <nav className="bg-pink-900">
                 <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
