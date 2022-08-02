@@ -10,11 +10,11 @@ export default function Projecten() {
                     <Card style={{ width: '18rem' }}>
                         <Card.Img variant="top" src="projectimg_3.png" />
                         <Card.Body>
-                            <Card.Title>Watchlist app (wip)</Card.Title>
+                            <Card.Title>Pokemon App</Card.Title>
                             <Card.Text>
-                                Een watchlist app waar je je lievelingsprogramma's kan volgen en info opzoeken.
+                                Een Pokemon app ontwikkeld met behulp van pokeapi.co.
                             </Card.Text>
-                            <Button className={"btn-light"} href={"https://github.com/nasaracino/project_webapplicaties"}>Code bekijken</Button>
+                            <Button className={"btn-light"} href={"https://github.com/nasaracino/project_mobapp"}>Code bekijken</Button>
                         </Card.Body>
                     </Card>
                 </div>
