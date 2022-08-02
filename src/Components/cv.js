@@ -54,8 +54,8 @@ export default function Cv() {
                         <div className={"col-6"}>
                             <h2 className={"mt-3"}>Documenten</h2>
                             <ul>
-                                <li><a href={"https://drive.google.com/file/d/1dRvqtp_hsC1Plu77FQGSLmEobo1larAM/view?usp=sharing"} target={"_blank"}>CV</a></li>
-                                <li><a href={"https://drive.google.com/file/d/1p9APTvgUP-M1SZOUMbzygUqRVPYljPNi/view?usp=sharing"} target={"_blank"}>Eindrapport Stage Business Masters</a></li>
+                                <li><a href={"https://drive.google.com/file/d/1adyQP73b_DmkvbR1zOnHvgQs-y4VP7YC/view?usp=sharing"} target={"_blank"} rel={"noreferrer"}>CV</a></li>
+                                <li><a href={"https://drive.google.com/file/d/1p9APTvgUP-M1SZOUMbzygUqRVPYljPNi/view?usp=sharing"} target={"_blank"} rel={"noreferrer"}>Eindrapport Stage Business Masters</a></li>
                             </ul>
                         </div>
                     </div>
